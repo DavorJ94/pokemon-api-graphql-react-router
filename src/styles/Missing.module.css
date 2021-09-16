@@ -1,0 +1,23 @@
+.notFound {
+  margin: 2em auto;
+  text-align: center;
+  border-top: 2px solid grey;
+  border-bottom: 2px solid grey;
+  line-height: 4em;
+}
+
+.headLine {
+  font-size: 3em;
+}
+
+.link {
+  font-weight: bold;
+  text-decoration: underline;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  line-height: 4;
+}
+
+.link:hover {
+  color: goldenrod;
+}

@@ -1,0 +1,37 @@
+.container {
+  padding: 1em;
+  display: inline-block;
+  text-align: center;
+  outline: 2px solid white;
+}
+
+.pokemonName {
+  text-transform: capitalize;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.pokemonImg {
+  outline: 2px solid transparent;
+}
+
+.leftSide {
+  display: inline;
+  font-weight: bold;
+}
+
+.heightWeight {
+  font-weight: bold;
+  margin-top: 2rem;
+}
+
+.abilities {
+  display: inline;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.separator {
+  margin-top: 1rem;
+}
